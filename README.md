@@ -1,7 +1,7 @@
-# MediAssist — AI-Powered Healthcare Assistant
+# MediAssist — AI-Powered Healthcare Assistant 
 
 > **Official 3D Product Showcase & Android APK Download Portal**
-
+Live Link :: https://mediassistai-app.netlify.app/
 MediAssist is an intelligent AI-powered healthcare assistant designed for Android. It enables users to consult conversational medical guidance, look up prescription medicine usages and dosages, track health vitals, and communicate with a dedicated **Render** cloud backend over encrypted HTTPS.
 
 ---
