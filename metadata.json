@@ -1,0 +1,6 @@
+{
+  "name": "MediAssist — AI-Powered Healthcare Assistant",
+  "description": "Official 3D product showcase and Android APK download portal for MediAssist AI healthcare companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
